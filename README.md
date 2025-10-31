@@ -63,4 +63,9 @@ Este repositório contém a estrutura e documentação teórica do projeto, pois
 
 ---
 
+📚 **Feito por [Letícia Montenegro](https://github.com/LeticiaMontenegro)** 
+🔗 **Perfil DIO:** [https://web.dio.me/users/leehmontenegro](https://web.dio.me/users/leehmontenegro)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/leehmontenegro/](https://www.linkedin.com/in/leehmontenegro/)
+💻 *Projeto conceitual desenvolvido para o desafio DIO*
+
 
